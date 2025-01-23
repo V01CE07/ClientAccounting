@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\desktop\\demodrozdov\\mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|solutionrelative:mainwindow.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\desktop\\demodrozdov\\newpartner.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|solutionrelative:newpartner.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\desktop\\demodrozdov\\newpartner.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}",
+      "RelativeMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|solutionrelative:newpartner.axaml||{6D5344A2-2FCD-49DE-A09D-6A14FD1B1224}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\desktop\\demodrozdov\\models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|solutionrelative:models\\partner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|c:\\users\\\u0430\u0434\u043C\u0438\u043D\\desktop\\demodrozdov\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB387F88-F632-451B-BDFF-9B675CA196D7}|demoDrozdov.csproj|solutionrelative:mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPartner.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\NewPartner.axaml.cs",
+              "RelativeDocumentMoniker": "NewPartner.axaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\NewPartner.axaml.cs",
+              "RelativeToolTip": "NewPartner.axaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:21:17.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewPartner.axaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\NewPartner.axaml",
+              "RelativeDocumentMoniker": "NewPartner.axaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\NewPartner.axaml",
+              "RelativeToolTip": "NewPartner.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T13:21:31.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Partner.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\Models\\Partner.cs",
+              "RelativeDocumentMoniker": "Models\\Partner.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\Models\\Partner.cs",
+              "RelativeToolTip": "Models\\Partner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:21:50.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.axaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\MainWindow.axaml",
+              "RelativeDocumentMoniker": "MainWindow.axaml",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\MainWindow.axaml",
+              "RelativeToolTip": "MainWindow.axaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-20T13:24:42.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\MainWindow.axaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.axaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u0434\u043C\u0438\u043D\\Desktop\\demoDrozdov\\MainWindow.axaml.cs",
+              "RelativeToolTip": "MainWindow.axaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T13:29:14.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
